@@ -1,17 +1,18 @@
 # n8n-client-acquisition-bot
-# 🤖 Smart Client Acquisition Bot with n8n
+# 🤖
+Smart Client Acquisition Bot with n8n
 
 This project automates the process of finding, qualifying, and contacting new clients using [n8n](https://n8n.io/), reducing manual sales and marketing work by up to 80%.
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 Automate marketing & commercial tasks to acquire new clients efficiently.
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **Lead Generation** – Scrape business directories (LinkedIn, Google Maps)  
 2. **Enrich & Qualify** – Retrieve contact info via Clearbit, Hunter.io  
@@ -21,7 +22,7 @@ Automate marketing & commercial tasks to acquire new clients efficiently.
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - n8n (core automation)
 - Gmail / SendGrid (email)
@@ -37,13 +38,13 @@ Automate marketing & commercial tasks to acquire new clients efficiently.
 
 ---
 
-## 📦 Workflow File
+##  Workflow File
 
 You can find the exported workflow file in the `workflow/` folder.  
 To use it, import it into your n8n instance.
 
 ---
 
-## 📄 License
+##  License
 
 MIT
